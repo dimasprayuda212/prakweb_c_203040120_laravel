@@ -2,6 +2,8 @@
 
 namespace App\Models;
 
+// Dimas Prayuda
+
 class Post 
 {  
     private static $blog_posts = [
